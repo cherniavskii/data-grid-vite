@@ -3,6 +3,7 @@ import { DataGridPremium } from "@mui/x-data-grid-premium";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import type {} from "@mui/lab/themeAugmentation";
 import type {} from "@mui/x-data-grid-premium/themeAugmentation";
+import type {} from "@mui/x-date-pickers/themeAugmentation";
 
 const theme = createTheme();
 
